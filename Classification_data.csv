@@ -1,328 +1,324 @@
-ID,Residence,Gender,Educational quallification,Age,Marital status," Girls in urban areas have better access to quality education than those in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.
-Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.
-Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.
-Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.
-  Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Family support for girls' education is stronger in urban areas compared to rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Government and NGO programs are more effective in promoting girls' education in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Employment opportunities for females are more readily available in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Females in urban areas are better prepared for the job market due to their education.
+ID,Residence,Gender,Educational quallification,Age,Marital status," Girls in urban areas have better access to quality education than those in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Financial barriers are a more significant obstacle to education for girls in rural areas than in urban areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Family support for girls' education is stronger in urban areas compared to rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Government and NGO programs are more effective in promoting girls' education in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Employment opportunities for females are more readily available in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Females in urban areas are better prepared for the job market due to their education.
 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Workplace support and career advancement opportunities are more accessible for females in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Females in rural areas face more significant challenges in securing employment compared to those in urban areas. 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer
  Females in rural areas face more significant challenges in securing employment compared to those in urban areas.
 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer",". Females in urban areas feel more empowered to make decisions about their education and career than those in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Participation in community and political activities is higher among females in urban areas compared to rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Access to financial services and technology is more prevalent for females in urban areas than in rural areas.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Educational and employment disparities between rural and urban areas significantly impact females' opportunities.
 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Relocating to an urban area is seen as a way to improve educational and employment prospects for females.1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"," Cultural norms supporting female education and employment are stronger in urban areas than in rural areas.
 
 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Urban areas provide better infrastructure and resources to support female education and employment. 
-1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Hold jobs in urban areas, security concerns are more important to rural females than urban females. 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer"
-stu001,Sherpur (rural),female,HSC,17,unmarried,1,1,2,1,1,2,2,2,1,1,1,1,1,4,2,1
-stu002,Sherpur (rural),female,BA pass,21,married,1,2,2,1,1,2,3,2,1,2,1,1,4,3,2,1
-stu003,Sherpur (urban),female,HSC,17,unmarried,1,1,2,1,1,1,2,1,2,1,1,1,1,1,2,1
-stu004,Sherpur (urban),female,HSC,16,unmarried,1,1,2,1,1,1,1,4,1,1,1,1,1,2,2,1
-stu005,Sherpur (urban),female,HSC,16,unmarried,1,1,2,1,1,2,2,1,1,1,1,1,1,1,2,1
-stu006,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1
-stu007,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,2,1,2,1,1,1,1,2,1,1,1
-stu008,Sherpur (rural),female,HSC,17,unmarried,1,1,2,4,1,1,4,2,1,1,1,1,1,2,2,4
-stu009,Sherpur (rural),female,HSC,16,unmarried,1,1,1,3,1,2,3,3,1,1,1,1,1,1,1,3
-stu010,Sherpur (rural),female,HSC,17,unmarried,1,1,2,2,1,1,3,3,1,1,1,1,1,2,2,2
-stu011,Sherpur (urban),female,HSC,16,unmarried,1,1,1,2,1,2,4,2,1,1,1,1,1,2,1,2
-stu012,Sherpur (urban),female,BA hons,21,married,1,1,2,1,1,1,1,2,1,1,1,1,2,2,2,1
-stu013,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1
-stu014,Sherpur (rural),female,HSC,17,unmarried,1,1,2,1,1,1,1,1,1,1,1,1,1,2,2,1
-stu015,Sherpur (urban),female,HSC,17,unmarried,1,1,1,1,1,2,2,1,1,1,1,2,1,2,1,1
-stu016,Sherpur (rural),female,HSC,16,unmarried,1,1,2,1,2,2,1,1,1,1,1,2,2,2,2,1
-stu017,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,1,2,1,1,1,1,2,2,2,1,1
-stu018,Sherpur (rural),female,HSC,17,unmarried,2,1,2,1,1,1,1,1,1,1,1,1,2,2,2,1
-stu019,Sherpur (rural),female,HSC,16,unmarried,1,1,2,1,1,1,2,1,1,1,1,1,1,2,2,1
-stu020,Sherpur (rural),female,HSC,16,unmarried,2,1,1,1,1,1,2,1,1,1,1,2,3,2,1,1
-stu021,Sherpur (rural),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu022,Sherpur (rural),female,HSC,17,unmarried,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu023,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu024,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu025,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu026,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1
-stu027,Sherpur (urban),female,HSC,19,married,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1
-stu028,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1
-stu029,Sherpur (rural),female,HSC,19,married,1,1,2,1,1,2,1,1,1,1,1,1,1,2,2,1
-stu030,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,2,1,2,1,1,1,1,1,2,1,1
-stu031,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,1,2,1,2,1,1,1,1,1,2,1,1
-stu032,Sherpur (rural),female,HSC,18,married,1,1,2,1,1,2,2,2,1,1,1,1,1,1,2,1
-stu033,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,2,2,2,1,1,1,1,1,3,2,1
-stu034,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,2,2,1,1,1,1,1,1,2,1
-stu035,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,2,2,1,1,1,1,1,2,2,1
-stu036,Sherpur (rural),female,HSC,19,married,1,1,2,1,1,2,3,2,1,1,1,1,1,2,2,1
-stu037,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,2,2,2,1,1,1,1,1,2,2,1
-stu038,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,1,1,2,1,1,1,1,1,2,2,1
-stu039,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,1,3,2,1,1,1,1,1,4,2,1
-stu040,Sherpur (rural),female,HSC,17,unmarried,1,2,2,1,1,1,4,2,1,1,1,1,1,1,2,1
-stu041,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,1,1,4,2,1,1,1,1,1,2,1,1
-stu042,Sherpur (rural),female,HSC,19,unmarried,2,2,1,1,1,1,3,2,1,1,1,1,1,2,1,1
-stu043,Sherpur (rural),female,HSC,19,married,2,2,1,1,1,1,2,2,1,1,1,1,1,1,1,1
-stu044,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,4,2,1,1,1,1,1,2,1,1
-stu045,Sherpur (urban),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu046,Sherpur (rural),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1
-stu047,Sherpur (urban),female,HSC,17,unmarried,2,2,1,1,1,1,4,1,1,1,1,1,1,1,1,1
-stu048,Sherpur (rural),female,HSC,19,married,2,1,1,1,1,1,3,1,1,1,1,1,2,2,1,1
-stu049,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,2,1,1,1,1,3,2,1,1
-stu050,Sherpur (rural),female,HSC,17,unmarried,2,1,1,1,2,1,2,1,1,1,1,1,3,1,1,1
-stu051,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,4,2,1,1
-stu052,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu053,Sherpur (urban),female,HSC,18,married,2,2,1,1,1,1,1,1,1,1,1,1,2,2,1,1
-stu054,Sherpur (urban),female,HSC,19,married,2,2,1,1,2,1,1,2,1,1,1,1,1,1,1,1
-stu055,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1
-stu056,Sherpur (rural),female,HSC,19,married,2,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1
-stu057,Sherpur Sadar,female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1
-stu058,Sherpur (rural),female,HSC,18,married,2,2,1,2,2,1,2,2,1,1,1,1,1,1,1,2
-stu059,Sherpur (rural),female,HSC,19,married,2,2,1,2,2,1,2,2,1,1,1,1,1,2,1,2
-stu060,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,2,1,2,2,1,1,1,1,1,1,1,1
-stu061,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,1,2,1,1,1,1,1,1,1,1,2
-stu062,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,2,1,2,3,1,1,1,1,1,1,1,1
-stu063,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,2
-stu064,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1
-stu065,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,2
-stu066,Sherpur (rural),female,HSC,18,unmarried,1,2,2,2,2,2,1,1,1,1,1,1,1,1,2,2
-stu067,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2
-stu068,Sherpur (urban),female,HSC,19,married,1,2,2,2,2,2,3,1,1,1,1,1,1,1,2,2
-stu069,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2
-stu070,Sherpur (urban),female,HSC,18,married,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2
-stu071,Sherpur (rural),female,HSC,18,married,1,1,2,2,2,2,4,1,1,1,1,1,1,1,2,2
-stu072,Sherpur (rural),female,HSC,18,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2
-stu073,Sherpur (rural),female,HSC,18,unmarried,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2
-stu074,Sherpur (rural),female,HSC,19,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2
-stu075,Sherpur (rural),female,HSC,19,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2
-stu076,Sherpur (rural),female,HSC,19,married,1,1,2,4,2,1,1,1,1,1,1,1,1,1,2,4
-stu077,Sherpur (rural),female,HSC,19,married,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1
-stu078,Sherpur (rural),female,HSC,18,unmarried,1,1,2,2,2,1,1,1,1,1,1,1,1,1,2,2
-stu079,Sherpur (rural),female,HSC,17,unmarried,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu080,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,2,1,2,1,1,1,1,1,1,1,1,2
-stu081,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,2,1,2,1,1,1,1,1,1,1,1,2
-stu082,Sherpur (urban),female,HSC,19,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu083,Sherpur (urban),female,HSC,17,unmarried,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu084,Sherpur (rural),female,HSC,18,unmarried,4,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu085,Sherpur (rural),female,Ba pass,20,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu086,Sherpur (rural),female,Ba pass,21,married,2,4,1,2,2,1,2,1,1,1,1,1,1,1,1,2
-stu087,Sherpur (rural),female,Ba pass,20,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu088,Sherpur (rural),female,Ba pass,22,married,2,2,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu089,Sherpur (rural),female,Ba pass,21,married,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,2
-stu090,Sherpur (rural),female,Ba pass,20,married,2,1,1,4,2,1,1,2,1,1,1,1,1,1,1,4
-stu091,Sherpur (rural),female,Ba pass,21,married,1,1,1,3,2,1,1,3,1,1,1,1,1,1,1,3
-stu092,Sherpur (rural),female,Ba pass,22,married,2,1,1,4,2,1,2,3,1,1,1,1,1,1,1,4
-stu093,Sherpur (rural),female,Ba pass,21,married,2,1,1,2,2,1,1,4,1,1,1,1,1,1,1,2
-stu094,Sherpur (rural),female,Ba pass,20,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu095,Sherpur (rural),female,Ba pass,21,married,2,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1
-stu096,Sherpur (rural),female,Ba pass,22,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu097,Sherpur (urban),female,BA hons,21,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu098,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu099,Sherpur (rural),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu100,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu101,Sherpur (urban),female,BA hons,21,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu102,Sherpur (rural),female,BA hons,21,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
-stu103,Sherpur (rural),female,BA hons,21,married,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1
-stu104,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1
-stu105,Sherpur (rural),female,BA hons,22,married,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1
-stu106,Sherpur (rural),female,SSC,16,unmarried,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1
-stu107,Sherpur (urban),female,SSC,16,unmarried,4,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1
-stu108,Sherpur (rural),female,SSC,16,unmarried,3,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1
-stu109,Sherpur (urban),female,SSC,16,unmarried,4,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1
-stu110,Sherpur (rural),female,SSC,16,unmarried,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1
-stu111,Sherpur (rural),female,SSC,15,unmarried,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1
-stu112,Sherpur (urban),female,SSC,16,unmarried,2,1,2,1,1,2,1,1,1,1,1,1,1,1,2,1
-stu113,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,1,1,1,3,1,1,3,1,2,1
-stu114,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,1,2,1,1,1,3,1,1,3,1,2,1
-stu115,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,1,1,1,4,1,1,3,1,2,1
-stu116,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,1,1,1,1,1,3,2,2,1
-stu117,Sherpur (rural),female,HSC,18,unmarried,4,2,2,1,1,1,1,1,1,2,1,1,3,2,2,1
-stu118,Sherpur (rural),female,HSC,18,unmarried,4,2,2,1,1,1,1,1,1,3,1,1,3,3,2,1
-stu119,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,4,1,1,3,2,1,1
-stu120,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,4,1,1,3,1,1,1
-stu121,Sherpur (rural),female,HSC,17,unmarried,4,1,1,1,1,2,1,1,1,1,1,1,3,2,1,1
-stu122,Sherpur (rural),female,HSC,18,unmarried,2,3,1,1,1,3,1,1,1,1,1,1,3,2,1,1
-stu123,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,1,1,1,1,1,3,1,2,1
-stu124,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,4,1,1,1,2,1,1,3,4,2,1
-stu125,Sherpur (rural),female,HSC,18,unmarried,3,2,3,1,4,1,1,1,1,2,2,1,3,3,3,1
-stu126,Sherpur (urban),female,HSC,19,unmarried,2,2,2,1,3,1,1,1,1,2,2,1,3,3,2,1
-stu127,Sherpur (urban),female,HSC,18,unmarried,2,2,4,1,1,1,1,1,1,2,2,1,3,4,4,1
-stu128,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,4,1,1,1
-stu129,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,3,2,1,1
-stu130,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,4,1,1,1
-stu131,Sherpur (urban),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,3,2,1,1
-stu132,Sherpur (rural),female,HSC,19,unmarried,2,2,1,1,1,1,1,1,1,2,2,1,3,1,1,1
-stu133,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,2,1,1,1,1,2,2,1,3,2,1,1
-stu134,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,1,2,1,1,1,2,2,1,2,1,1,1
-stu135,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,4,2,1,1,1,2,2,1,3,2,1,1
-stu136,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,2,1,1,1,4,2,1,3,2,1,1
-stu137,Sherpur (rural),female,HSC,18,unmarried,2,3,2,1,2,2,1,1,1,4,2,1,3,1,2,1
-stu138,Sherpur (rural),female,HSC,19,unmarried,2,3,2,1,1,2,1,1,1,3,2,1,3,1,2,1
-stu139,Sherpur (rural),female,HSC,18,unmarried,2,4,2,1,2,2,1,1,1,2,2,1,3,1,2,1
-stu140,Sherpur (rural),female,HSC,18,unmarried,2,4,2,1,2,2,1,1,1,1,2,1,2,1,2,1
-stu141,Sherpur (rural),female,HSC,19,unmarried,2,4,2,1,2,2,1,1,1,1,2,1,2,1,2,1
-stu142,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,2,2,1,1,1,4,2,1,3,2,2,1
-stu143,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,1,2,1,1,1,2,2,1,2,2,2,1
-stu144,Sherpur (rural),female,HSC,18,unmarried,2,1,2,3,1,2,1,1,1,3,2,1,2,1,2,3
-stu145,Sherpur (rural),female,HSC,18,unmarried,2,1,2,2,1,2,1,1,1,4,2,1,3,1,2,2
-stu146,Sherpur (rural),female,HSC,18,unmarried,2,1,2,1,1,2,1,1,1,2,2,1,3,1,2,1
-stu147,Sherpur (rural),female,HSC,18,unmarried,2,1,2,2,1,1,1,1,1,2,2,1,3,1,2,2
-stu148,Sherpur (rural),female,HSC,19,unmarried,2,1,2,4,2,2,1,1,1,2,2,1,3,2,2,4
-stu149,Sherpur (rural),female,HSC,19,unmarried,2,1,2,4,2,2,1,1,1,2,2,1,3,2,2,4
-stu150,Sherpur (rural),female,HSC,18,unmarried,3,1,1,4,2,2,1,1,1,2,2,1,3,2,1,4
-stu151,Sherpur (rural),female,HSC,18,unmarried,3,1,2,3,2,2,1,1,1,2,4,1,3,2,2,3
-stu152,Sherpur (rural),female,HSC,18,unmarried,3,1,2,2,1,2,1,1,1,2,1,1,3,3,2,2
-stu153,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,2,1,1,1,2,1,1,3,2,2,1
-stu154,Sherpur (urban),female,HSC,19,unmarried,3,2,2,1,1,2,1,1,1,2,2,1,3,1,2,1
-stu155,Sherpur (urban),female,HSC,19,unmarried,3,2,2,1,2,2,1,3,1,2,1,1,2,3,2,1
-stu156,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,3,1,2,1,1,3,4,2,1
-stu157,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,1,1,3,1,2,1,1,4,4,2,1
-stu158,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,2,1,3,1,2,1,1,3,3,2,1
-stu159,Sherpur (urban),female,HSC,18,unmarried,3,2,2,1,2,1,1,3,1,2,1,1,3,2,2,1
-stu160,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,1,1,3,1,2,1,1,3,4,2,1
-stu161,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,4,1,2,1
-stu162,Sherpur (rural),female,HSC,18,unmarried,2,2,2,3,2,1,1,3,1,3,1,1,3,1,2,3
-stu163,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,1,1,1,2,4,2,2
-stu164,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,1,2,3,2,1
-stu165,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,4,2,2,2,1
-stu166,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,3,1,1,1,2,2,2,2,1
-stu167,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,4,1,1,2,2,2,1
-stu168,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,3,1,1,2,1
-stu169,Sherpur (rural),female,HSC,18,unmarried,2,3,2,1,1,1,1,3,1,1,1,1,1,1,2,1
-stu170,Sherpur (rural),female,HSC,18,unmarried,2,1,2,1,1,1,1,4,1,2,1,2,2,1,2,1
-stu171,Sherpur (urban),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,1,3,2,2,1
-stu172,Sherpur (urban),female,HSC,18,unmarried,2,2,2,1,1,1,1,4,1,3,1,1,4,2,2,1
-stu173,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,3,1,1,3,2,2,1
-stu174,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,2,1,1,2,2,2,2
-stu175,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,2,1,1,3,2,2,2
-stu176,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,2,1,1,1,1,2,2,2,2
-stu177,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,3,2,2,1
-stu178,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,2,2,2,1
-stu179,Sherpur (rural),female,HSC,19,unmarried,1,2,2,1,1,2,1,3,2,1,1,1,2,2,2,1
-stu180,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,2,1,3,1,1,1,1,2,1,2,1
-stu181,Sherpur (urban),female,HSC,18,unmarried,4,2,2,2,1,2,1,3,2,1,1,1,2,2,2,2
-stu182,Sherpur (urban),female,HSC,19,unmarried,3,2,2,2,1,2,1,2,1,1,1,1,2,1,2,2
-stu183,Sherpur (rural),female,HSC,18,unmarried,1,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2
-stu184,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,2,1,3,1,1,1,1,2,3,2,2
-stu185,Sherpur (rural),female,HSC,19,unmarried,1,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2
-stu186,Sherpur (rural),female,HSC,18,unmarried,3,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2
-stu187,Sherpur (rural),female,HSC,18,unmarried,1,2,2,3,1,2,1,3,1,1,1,1,2,4,2,3
-stu188,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,2,1,3,4,1,1,1,2,1,2,1
-stu189,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,1,1,1,2,1,2,1
-stu190,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,1,1,2,2,1,2,1
-stu191,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,2,1,2,1,1,2,1
-stu192,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,3,1,1,1,2,4,1,2,1
-stu193,Sherpur (rural),female,BA pass,21,unmarried,2,2,2,1,1,2,1,3,1,2,1,2,4,1,2,1
-stu194,Sherpur (rural),female,BA pass,23,married,2,2,2,1,1,2,1,3,1,2,1,2,4,1,2,1
-stu195,Sherpur (rural),female,BA pass,21,unmarried,2,2,2,4,2,2,1,3,1,2,1,2,1,1,2,4
-stu196,Sherpur (rural),female,BA pass,21,unmarried,1,2,2,1,2,2,1,3,1,2,1,2,1,2,2,1
-stu197,Sherpur (rural),female,BA pass,22,unmarried,4,2,2,4,1,2,1,2,1,2,1,2,1,2,2,4
-stu198,Sherpur (rural),female,BA pass,21,unmarried,1,2,2,2,3,2,1,3,1,2,1,2,1,1,2,2
-stu199,Sherpur (rural),female,BA pass,23,unmarried,1,2,2,1,2,2,1,4,1,2,1,2,1,1,2,1
-stu200,Sherpur (urban),female,BA pass,22,unmarried,2,2,2,1,1,2,1,3,1,2,1,2,1,1,2,1
-stu201,Sherpur (rural),female,BA hons,21,unmarried,2,2,2,2,2,2,2,3,1,2,1,2,1,1,2,2
-stu202,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,2,2,2,1,3,1,2,1,2,1,2,2,2
-stu203,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,2,1,2,3,4,1,2,1,2,1,1,2,2
-stu204,Sherpur (urban),female,BA hons,24,married,2,2,2,1,2,2,3,4,1,2,1,2,1,1,2,1
-stu205,Sherpur (rural),female,BA hons,22,unmarried,2,2,2,2,2,4,4,4,1,2,1,2,1,1,2,2
-stu206,Sherpur (rural),female,BA hons,23,unmarried,2,2,2,4,2,1,1,3,1,2,1,2,1,1,2,4
-stu207,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,1,2,1,2,2,1,2,1,4,1,1,2,1
-stu208,Sherpur (urban),female,HSC,19,unmarried,1,2,2,1,1,2,3,4,2,1,1,2,1,2,2,1
-stu209,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,4,1,2,1,1,1,1,2,1,1
-stu210,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,1,1,4,1,2,1,1,1,1,3,2,2
-stu211,Sherpur (rural),female,HSC,19,unmarried,1,1,1,2,1,1,1,4,2,4,1,1,1,3,1,2
-stu212,Sherpur (urban),female,HSC,19,unmarried,1,1,2,2,1,1,1,3,2,3,1,1,1,2,2,2
-stu213,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,1,1,1,2,1,2,1,1,1,2,1,2
-stu214,Sherpur (urban),female,HSC,18,unmarried,1,1,2,2,1,1,2,2,1,2,1,1,1,1,2,2
-stu215,Sherpur (urban),female,HSC,19,unmarried,1,2,2,2,1,1,2,2,2,1,1,1,1,1,2,2
-stu216,Sherpur (urban),female,HSC,18,unmarried,2,1,2,2,1,1,2,1,1,1,1,1,1,1,2,2
-stu217,Sherpur (rural),female,HSC,19,unmarried,1,1,2,2,1,1,2,1,2,1,1,1,1,1,2,2
-stu218,Sherpur (urban),female,HSC,18,unmarried,3,1,2,2,1,1,2,1,1,1,1,1,1,1,2,2
-stu219,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,1,2,2,2,1,1,1,1,1,2,1
-stu220,Sherpur (urban),female,HSC,20,unmarried,4,2,2,1,1,1,2,2,1,1,1,1,2,1,2,1
-stu221,Sherpur (rural),female,HSC,19,unmarried,1,2,2,1,1,1,2,2,2,1,1,1,2,1,2,1
-stu222,Sherpur (urban),female,HSC,19,unmarried,2,1,1,1,1,1,2,2,1,1,1,1,2,1,1,1
-stu223,Sherpur (urban),female,HSC,19,unmarried,3,3,1,1,1,1,2,2,2,1,1,1,1,1,1,1
-stu224,Sherpur (rural),male,HSC,18,unmarried,4,1,2,1,1,1,2,2,1,1,1,1,1,1,2,1
-stu225,Sherpur (urban),male,HSC,19,unmarried,4,1,1,1,1,1,2,2,2,1,1,1,2,1,1,1
-stu226,Sherpur (rural),male,HSC,18,unmarried,1,1,2,1,1,1,4,2,2,1,1,1,1,1,2,1
-stu227,Sherpur (rural),male,BA pass,24,unmarried,1,1,1,1,1,1,4,2,1,1,2,1,1,1,1,1
-stu228,Sherpur (rural),male,BA pass,23,unmarried,1,1,2,1,1,1,3,1,1,1,2,1,1,1,2,1
-stu229,Sherpur (urban),male,BA pass,38,married,2,1,2,1,1,1,2,2,1,1,2,1,1,2,2,1
-stu230,Sherpur (rural),male,BA pass,35,married,2,1,2,1,1,1,1,1,1,1,2,1,1,1,2,1
-stu231,Sherpur (urban),male,BA pass,39,unmarried,2,1,2,1,1,1,1,2,1,1,2,1,1,2,2,1
-stu232,Sherpur (rural),male,BA pass,32,unmarried,2,1,2,1,1,1,4,3,1,1,2,1,1,2,2,1
-stu233,Sherpur (urban),male,BA pass,36,unmarried,2,1,2,1,1,1,2,2,1,1,2,1,1,2,2,1
-stu234,Sherpur (urban),male,BA pass,33,unmarried,2,1,2,1,1,1,3,2,1,1,2,1,1,2,2,1
-stu235,Sherpur (urban),male,BA hons,31,unmarried,2,1,2,1,1,1,4,4,1,1,2,1,1,2,2,1
-stu236,Sherpur (urban),male,BA hons,37,married,2,1,2,1,1,1,2,1,2,1,2,1,1,2,2,1
-stu237,Sherpur (rural),male,BA hons,38,married,2,1,2,1,1,1,2,1,1,1,2,1,1,2,2,1
-stu238,Sherpur (rural),male,HSC,19,unmarried,2,1,2,1,1,1,2,1,1,1,2,1,1,2,2,1
-stu239,Sherpur (urban),male,BA pass,32,unmarried,2,1,2,1,1,1,2,1,2,1,2,1,1,2,2,1
-stu240,Sherpur (urban),male,BA hons,34,unmarried,2,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1
-stu241,Sherpur (rural),male,BA hons,33,unmarried,4,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1
-stu242,Sherpur (urban),male,BA hons,32,unmarried,4,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1
-stu243,Sherpur (urban),male,BA hons,37,married,3,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1
-stu244,Sherpur (rural),male,BA hons,34,unmarried,2,1,2,2,1,1,2,2,2,1,1,1,1,2,2,2
-stu245,Sherpur (rural),male,BA hons,35,married,1,1,2,2,1,1,2,2,2,1,1,1,1,2,2,2
-stu246,Sherpur (urban),male,HSC,19,unmarried,1,1,2,2,1,1,2,1,2,1,1,1,1,2,2,2
-stu247,Sherpur (urban),male,HSC,19,unmarried,4,1,2,2,1,1,2,1,2,1,1,1,1,2,2,2
-stu248,Sherpur (rural),male,HSC,19,unmarried,2,1,1,2,1,1,2,1,1,1,1,1,1,3,1,2
-stu249,Sherpur (rural),female,HSC,18,unmarried,3,1,1,2,1,1,2,1,1,1,1,1,1,3,1,2
-stu250,Sherpur (urban),female,HSC,19,unmarried,4,1,1,2,1,1,2,2,1,1,1,1,1,2,1,2
-stu251,Sherpur (rural),female,HSC,19,unmarried,2,2,1,2,1,1,1,1,1,1,1,1,1,2,1,2
-stu252,Sherpur (urban),female,HSC,19,unmarried,2,3,1,2,1,1,3,1,1,1,1,1,1,1,1,2
-stu253,Sherpur (urban),female,HSC,19,unmarried,1,1,4,1,2,2,1,2,1,1,1,1,1,1,4,1
-stu254,Sherpur (rural),female,Fifth grade,35,married,1,1,1,1,1,4,1,1,1,1,1,4,1,1,1,1
-stu255,Sherpur (rural),female,SSC,18,unmarried,1,2,1,1,4,3,1,2,1,1,4,3,2,1,1,1
-stu256,Sherpur (rural),female,BA hons,32,married,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1
-stu257,Sherpur (urban),female,BA hons,33,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu258,Sherpur (urban),female,SSC,18,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu259,Sherpur (urban),female,BA pass,29,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu260,Sherpur (urban),female,SSC,18,unmarried,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
-stu261,Sherpur (urban),female,BA hons,32,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu262,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu263,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu264,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu265,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1
-stu266,Sherpur (urban),female,HSC,20,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu267,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu268,Sherpur (urban),female,HSC,20,unmarried,1,1,1,2,1,2,1,1,1,2,1,2,1,1,2,2
-stu269,Sherpur (urban),female,HSC,19,unmarried,1,1,1,2,2,2,1,1,1,2,2,2,1,1,2,2
-stu270,Sherpur (urban),female,HSC,20,unmarried,1,1,1,2,2,2,1,1,1,2,2,2,1,1,2,2
-stu271,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1
-stu272,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu273,Sherpur (urban),female,HSC,19,unmarried,1,1,1,2,3,2,1,1,1,2,3,2,1,1,2,2
-stu274,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu275,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu276,Sherpur (rural),female,BA pass,28,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu277,Sherpur (rural),female,BA pass,30,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu278,Sherpur (rural),female,BA pass,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu279,Sherpur (rural),female,BA pass,30,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu280,Sherpur (rural),female,BA pass,25,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu281,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu282,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu283,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu284,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu285,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu286,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1
-stu287,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu288,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu289,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu290,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu291,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu292,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,4,1,1,1,1,1,4,1,1,1,1
-stu293,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu294,Sherpur (rural),female,BA hons,27,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu295,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu296,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu297,Sherpur (rural),female,BA hons,28,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu298,Sherpur (rural),female,BA hons,26,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu299,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu300,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu301,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1
-stu302,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,3,2,1,1,1,1,3,2,1,1,1,1
-stu303,Sherpur (rural),female,BA hons,30,married,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1
-stu304,Sherpur (rural),female,BA hons,30,married,1,1,1,1,4,2,1,1,1,1,4,2,1,1,1,1
-stu305,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu306,Sherpur (rural),female,BA hons,32,married,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1
-stu307,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu308,Sherpur (rural),female,BA hons,30,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu309,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu310,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu311,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu312,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1
-stu313,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu314,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu315,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-stu316,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Hold jobs in urban areas, security concerns are more important to rural females than urban females. 1=strongly agreed, 2=agree,3=Disagree, 4=Didn't answer","Quality of Life (Good = 1, Bad = 0)"
+stu001,Sherpur (rural),female,HSC,17,unmarried,1,1,2,1,1,2,2,2,1,1,1,1,1,4,2,1,1
+stu002,Sherpur (rural),female,BA pass,21,married,1,2,2,1,1,2,3,2,1,2,1,1,4,3,2,1,0
+stu003,Sherpur (urban),female,HSC,17,unmarried,1,1,2,1,1,1,2,1,2,1,1,1,1,1,2,1,1
+stu004,Sherpur (urban),female,HSC,16,unmarried,1,1,2,1,1,1,1,4,1,1,1,1,1,2,2,1,1
+stu005,Sherpur (urban),female,HSC,16,unmarried,1,1,2,1,1,2,2,1,1,1,1,1,1,1,2,1,1
+stu006,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1
+stu007,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1
+stu008,Sherpur (rural),female,HSC,17,unmarried,1,1,2,4,1,1,4,2,1,1,1,1,1,2,2,4,0
+stu009,Sherpur (rural),female,HSC,16,unmarried,1,1,1,3,1,2,3,3,1,1,1,1,1,1,1,3,0
+stu010,Sherpur (rural),female,HSC,17,unmarried,1,1,2,2,1,1,3,3,1,1,1,1,1,2,2,2,0
+stu011,Sherpur (urban),female,HSC,16,unmarried,1,1,1,2,1,2,4,2,1,1,1,1,1,2,1,2,1
+stu012,Sherpur (urban),female,BA hons,21,married,1,1,2,1,1,1,1,2,1,1,1,1,2,2,2,1,1
+stu013,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1,1
+stu014,Sherpur (rural),female,HSC,17,unmarried,1,1,2,1,1,1,1,1,1,1,1,1,1,2,2,1,1
+stu015,Sherpur (urban),female,HSC,17,unmarried,1,1,1,1,1,2,2,1,1,1,1,2,1,2,1,1,1
+stu016,Sherpur (rural),female,HSC,16,unmarried,1,1,2,1,2,2,1,1,1,1,1,2,2,2,2,1,1
+stu017,Sherpur (rural),female,HSC,16,unmarried,1,1,1,1,1,1,2,1,1,1,1,2,2,2,1,1,1
+stu018,Sherpur (rural),female,HSC,17,unmarried,2,1,2,1,1,1,1,1,1,1,1,1,2,2,2,1,1
+stu019,Sherpur (rural),female,HSC,16,unmarried,1,1,2,1,1,1,2,1,1,1,1,1,1,2,2,1,1
+stu020,Sherpur (rural),female,HSC,16,unmarried,2,1,1,1,1,1,2,1,1,1,1,2,3,2,1,1,1
+stu021,Sherpur (rural),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu022,Sherpur (rural),female,HSC,17,unmarried,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu023,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu024,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu025,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu026,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1,1
+stu027,Sherpur (urban),female,HSC,19,married,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1
+stu028,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1
+stu029,Sherpur (rural),female,HSC,19,married,1,1,2,1,1,2,1,1,1,1,1,1,1,2,2,1,1
+stu030,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,2,1,2,1,1,1,1,1,2,1,1,1
+stu031,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,1,2,1,2,1,1,1,1,1,2,1,1,1
+stu032,Sherpur (rural),female,HSC,18,married,1,1,2,1,1,2,2,2,1,1,1,1,1,1,2,1,1
+stu033,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,2,2,2,1,1,1,1,1,3,2,1,1
+stu034,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,2,2,1,1,1,1,1,1,2,1,1
+stu035,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,2,2,1,1,1,1,1,2,2,1,1
+stu036,Sherpur (rural),female,HSC,19,married,1,1,2,1,1,2,3,2,1,1,1,1,1,2,2,1,1
+stu037,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,2,2,2,1,1,1,1,1,2,2,1,1
+stu038,Sherpur (rural),female,HSC,19,married,1,2,2,1,1,1,1,2,1,1,1,1,1,2,2,1,1
+stu039,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,1,3,2,1,1,1,1,1,4,2,1,0
+stu040,Sherpur (rural),female,HSC,17,unmarried,1,2,2,1,1,1,4,2,1,1,1,1,1,1,2,1,1
+stu041,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,1,1,4,2,1,1,1,1,1,2,1,1,1
+stu042,Sherpur (rural),female,HSC,19,unmarried,2,2,1,1,1,1,3,2,1,1,1,1,1,2,1,1,1
+stu043,Sherpur (rural),female,HSC,19,married,2,2,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1
+stu044,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,4,2,1,1,1,1,1,2,1,1,1
+stu045,Sherpur (urban),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu046,Sherpur (rural),female,HSC,18,unmarried,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1
+stu047,Sherpur (urban),female,HSC,17,unmarried,2,2,1,1,1,1,4,1,1,1,1,1,1,1,1,1,1
+stu048,Sherpur (rural),female,HSC,19,married,2,1,1,1,1,1,3,1,1,1,1,1,2,2,1,1,1
+stu049,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,2,1,1,1,1,3,2,1,1,1
+stu050,Sherpur (rural),female,HSC,17,unmarried,2,1,1,1,2,1,2,1,1,1,1,1,3,1,1,1,1
+stu051,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,4,2,1,1,1
+stu052,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu053,Sherpur (urban),female,HSC,18,married,2,2,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1
+stu054,Sherpur (urban),female,HSC,19,married,2,2,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1
+stu055,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1
+stu056,Sherpur (rural),female,HSC,19,married,2,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1
+stu057,Sherpur Sadar,female,HSC,18,unmarried,2,2,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1
+stu058,Sherpur (rural),female,HSC,18,married,2,2,1,2,2,1,2,2,1,1,1,1,1,1,1,2,1
+stu059,Sherpur (rural),female,HSC,19,married,2,2,1,2,2,1,2,2,1,1,1,1,1,2,1,2,1
+stu060,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,2,1,2,2,1,1,1,1,1,1,1,1,1
+stu061,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,1,2,1,1,1,1,1,1,1,1,2,1
+stu062,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,2,1,2,3,1,1,1,1,1,1,1,1,1
+stu063,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,2,1
+stu064,Sherpur (rural),female,HSC,18,unmarried,1,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1
+stu065,Sherpur (rural),female,HSC,18,unmarried,1,2,1,2,2,2,2,1,1,1,1,1,1,1,1,2,1
+stu066,Sherpur (rural),female,HSC,18,unmarried,1,2,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1
+stu067,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2,1
+stu068,Sherpur (urban),female,HSC,19,married,1,2,2,2,2,2,3,1,1,1,1,1,1,1,2,2,0
+stu069,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2,1
+stu070,Sherpur (urban),female,HSC,18,married,1,2,2,2,2,2,2,1,1,1,1,1,1,1,2,2,1
+stu071,Sherpur (rural),female,HSC,18,married,1,1,2,2,2,2,4,1,1,1,1,1,1,1,2,2,0
+stu072,Sherpur (rural),female,HSC,18,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1
+stu073,Sherpur (rural),female,HSC,18,unmarried,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1
+stu074,Sherpur (rural),female,HSC,19,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1
+stu075,Sherpur (rural),female,HSC,19,married,1,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2,1
+stu076,Sherpur (rural),female,HSC,19,married,1,1,2,4,2,1,1,1,1,1,1,1,1,1,2,4,0
+stu077,Sherpur (rural),female,HSC,19,married,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1
+stu078,Sherpur (rural),female,HSC,18,unmarried,1,1,2,2,2,1,1,1,1,1,1,1,1,1,2,2,1
+stu079,Sherpur (rural),female,HSC,17,unmarried,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu080,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,2,1,2,1,1,1,1,1,1,1,1,2,1
+stu081,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,2,1,2,1,1,1,1,1,1,1,1,2,1
+stu082,Sherpur (urban),female,HSC,19,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu083,Sherpur (urban),female,HSC,17,unmarried,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu084,Sherpur (rural),female,HSC,18,unmarried,4,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu085,Sherpur (rural),female,Ba pass,20,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu086,Sherpur (rural),female,Ba pass,21,married,2,4,1,2,2,1,2,1,1,1,1,1,1,1,1,2,1
+stu087,Sherpur (rural),female,Ba pass,20,married,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu088,Sherpur (rural),female,Ba pass,22,married,2,2,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu089,Sherpur (rural),female,Ba pass,21,married,1,2,1,2,2,1,1,1,1,1,1,1,1,1,1,2,1
+stu090,Sherpur (rural),female,Ba pass,20,married,2,1,1,4,2,1,1,2,1,1,1,1,1,1,1,4,0
+stu091,Sherpur (rural),female,Ba pass,21,married,1,1,1,3,2,1,1,3,1,1,1,1,1,1,1,3,1
+stu092,Sherpur (rural),female,Ba pass,22,married,2,1,1,4,2,1,2,3,1,1,1,1,1,1,1,4,0
+stu093,Sherpur (rural),female,Ba pass,21,married,2,1,1,2,2,1,1,4,1,1,1,1,1,1,1,2,1
+stu094,Sherpur (rural),female,Ba pass,20,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu095,Sherpur (rural),female,Ba pass,21,married,2,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1
+stu096,Sherpur (rural),female,Ba pass,22,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu097,Sherpur (urban),female,BA hons,21,married,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu098,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu099,Sherpur (rural),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu100,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu101,Sherpur (urban),female,BA hons,21,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu102,Sherpur (rural),female,BA hons,21,married,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+stu103,Sherpur (rural),female,BA hons,21,married,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1
+stu104,Sherpur (urban),female,BA hons,22,married,1,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1
+stu105,Sherpur (rural),female,BA hons,22,married,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1
+stu106,Sherpur (rural),female,SSC,16,unmarried,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1
+stu107,Sherpur (urban),female,SSC,16,unmarried,4,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,1
+stu108,Sherpur (rural),female,SSC,16,unmarried,3,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1
+stu109,Sherpur (urban),female,SSC,16,unmarried,4,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
+stu110,Sherpur (rural),female,SSC,16,unmarried,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1
+stu111,Sherpur (rural),female,SSC,15,unmarried,1,1,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1
+stu112,Sherpur (urban),female,SSC,16,unmarried,2,1,2,1,1,2,1,1,1,1,1,1,1,1,2,1,1
+stu113,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,1,1,1,3,1,1,3,1,2,1,1
+stu114,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,1,2,1,1,1,3,1,1,3,1,2,1,1
+stu115,Sherpur (rural),female,HSC,18,unmarried,1,1,2,1,1,2,1,1,1,4,1,1,3,1,2,1,1
+stu116,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,1,1,1,1,1,3,2,2,1,1
+stu117,Sherpur (rural),female,HSC,18,unmarried,4,2,2,1,1,1,1,1,1,2,1,1,3,2,2,1,0
+stu118,Sherpur (rural),female,HSC,18,unmarried,4,2,2,1,1,1,1,1,1,3,1,1,3,3,2,1,0
+stu119,Sherpur (rural),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,4,1,1,3,2,1,1,1
+stu120,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,4,1,1,3,1,1,1,1
+stu121,Sherpur (rural),female,HSC,17,unmarried,4,1,1,1,1,2,1,1,1,1,1,1,3,2,1,1,1
+stu122,Sherpur (rural),female,HSC,18,unmarried,2,3,1,1,1,3,1,1,1,1,1,1,3,2,1,1,1
+stu123,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,1,1,1,1,1,3,1,2,1,1
+stu124,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,4,1,1,1,2,1,1,3,4,2,1,0
+stu125,Sherpur (rural),female,HSC,18,unmarried,3,2,3,1,4,1,1,1,1,2,2,1,3,3,3,1,0
+stu126,Sherpur (urban),female,HSC,19,unmarried,2,2,2,1,3,1,1,1,1,2,2,1,3,3,2,1,0
+stu127,Sherpur (urban),female,HSC,18,unmarried,2,2,4,1,1,1,1,1,1,2,2,1,3,4,4,1,0
+stu128,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,4,1,1,1,1
+stu129,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,3,2,1,1,1
+stu130,Sherpur (rural),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,4,1,1,1,1
+stu131,Sherpur (urban),female,HSC,17,unmarried,1,1,1,1,1,1,1,1,1,2,2,1,3,2,1,1,1
+stu132,Sherpur (rural),female,HSC,19,unmarried,2,2,1,1,1,1,1,1,1,2,2,1,3,1,1,1,1
+stu133,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,2,1,1,1,1,2,2,1,3,2,1,1,1
+stu134,Sherpur (urban),female,HSC,18,unmarried,2,2,1,1,1,2,1,1,1,2,2,1,2,1,1,1,1
+stu135,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,4,2,1,1,1,2,2,1,3,2,1,1,0
+stu136,Sherpur (rural),female,HSC,18,unmarried,2,2,1,1,1,2,1,1,1,4,2,1,3,2,1,1,0
+stu137,Sherpur (rural),female,HSC,18,unmarried,2,3,2,1,2,2,1,1,1,4,2,1,3,1,2,1,0
+stu138,Sherpur (rural),female,HSC,19,unmarried,2,3,2,1,1,2,1,1,1,3,2,1,3,1,2,1,0
+stu139,Sherpur (rural),female,HSC,18,unmarried,2,4,2,1,2,2,1,1,1,2,2,1,3,1,2,1,0
+stu140,Sherpur (rural),female,HSC,18,unmarried,2,4,2,1,2,2,1,1,1,1,2,1,2,1,2,1,0
+stu141,Sherpur (rural),female,HSC,19,unmarried,2,4,2,1,2,2,1,1,1,1,2,1,2,1,2,1,0
+stu142,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,2,2,1,1,1,4,2,1,3,2,2,1,0
+stu143,Sherpur (rural),female,HSC,19,unmarried,2,1,2,1,1,2,1,1,1,2,2,1,2,2,2,1,1
+stu144,Sherpur (rural),female,HSC,18,unmarried,2,1,2,3,1,2,1,1,1,3,2,1,2,1,2,3,0
+stu145,Sherpur (rural),female,HSC,18,unmarried,2,1,2,2,1,2,1,1,1,4,2,1,3,1,2,2,0
+stu146,Sherpur (rural),female,HSC,18,unmarried,2,1,2,1,1,2,1,1,1,2,2,1,3,1,2,1,1
+stu147,Sherpur (rural),female,HSC,18,unmarried,2,1,2,2,1,1,1,1,1,2,2,1,3,1,2,2,0
+stu148,Sherpur (rural),female,HSC,19,unmarried,2,1,2,4,2,2,1,1,1,2,2,1,3,2,2,4,0
+stu149,Sherpur (rural),female,HSC,19,unmarried,2,1,2,4,2,2,1,1,1,2,2,1,3,2,2,4,0
+stu150,Sherpur (rural),female,HSC,18,unmarried,3,1,1,4,2,2,1,1,1,2,2,1,3,2,1,4,0
+stu151,Sherpur (rural),female,HSC,18,unmarried,3,1,2,3,2,2,1,1,1,2,4,1,3,2,2,3,0
+stu152,Sherpur (rural),female,HSC,18,unmarried,3,1,2,2,1,2,1,1,1,2,1,1,3,3,2,2,0
+stu153,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,2,1,1,1,2,1,1,3,2,2,1,0
+stu154,Sherpur (urban),female,HSC,19,unmarried,3,2,2,1,1,2,1,1,1,2,2,1,3,1,2,1,0
+stu155,Sherpur (urban),female,HSC,19,unmarried,3,2,2,1,2,2,1,3,1,2,1,1,2,3,2,1,0
+stu156,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,3,1,2,1,1,3,4,2,1,0
+stu157,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,2,1,1,3,1,2,1,1,4,4,2,1,0
+stu158,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,2,1,3,1,2,1,1,3,3,2,1,0
+stu159,Sherpur (urban),female,HSC,18,unmarried,3,2,2,1,2,1,1,3,1,2,1,1,3,2,2,1,0
+stu160,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,1,1,3,1,2,1,1,3,4,2,1,0
+stu161,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,4,1,2,1,0
+stu162,Sherpur (rural),female,HSC,18,unmarried,2,2,2,3,2,1,1,3,1,3,1,1,3,1,2,3,0
+stu163,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,1,1,1,2,4,2,2,0
+stu164,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,1,2,3,2,1,0
+stu165,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,4,2,2,2,1,0
+stu166,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,3,1,1,1,2,2,2,2,1,0
+stu167,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,4,1,1,2,2,2,1,0
+stu168,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,3,1,1,2,1,1
+stu169,Sherpur (rural),female,HSC,18,unmarried,2,3,2,1,1,1,1,3,1,1,1,1,1,1,2,1,1
+stu170,Sherpur (rural),female,HSC,18,unmarried,2,1,2,1,1,1,1,4,1,2,1,2,2,1,2,1,0
+stu171,Sherpur (urban),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,2,1,1,3,2,2,1,0
+stu172,Sherpur (urban),female,HSC,18,unmarried,2,2,2,1,1,1,1,4,1,3,1,1,4,2,2,1,0
+stu173,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,3,1,1,3,2,2,1,0
+stu174,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,2,1,1,2,2,2,2,0
+stu175,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,3,1,2,1,1,3,2,2,2,0
+stu176,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,1,1,2,1,1,1,1,2,2,2,2,0
+stu177,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,3,2,2,1,0
+stu178,Sherpur (rural),female,HSC,19,unmarried,2,2,2,1,1,1,1,3,1,1,1,1,2,2,2,1,1
+stu179,Sherpur (rural),female,HSC,19,unmarried,1,2,2,1,1,2,1,3,2,1,1,1,2,2,2,1,0
+stu180,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,2,1,3,1,1,1,1,2,1,2,1,1
+stu181,Sherpur (urban),female,HSC,18,unmarried,4,2,2,2,1,2,1,3,2,1,1,1,2,2,2,2,0
+stu182,Sherpur (urban),female,HSC,19,unmarried,3,2,2,2,1,2,1,2,1,1,1,1,2,1,2,2,0
+stu183,Sherpur (rural),female,HSC,18,unmarried,1,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2,0
+stu184,Sherpur (rural),female,HSC,18,unmarried,2,2,2,2,1,2,1,3,1,1,1,1,2,3,2,2,0
+stu185,Sherpur (rural),female,HSC,19,unmarried,1,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2,0
+stu186,Sherpur (rural),female,HSC,18,unmarried,3,2,2,2,1,2,1,2,1,1,1,1,2,2,2,2,0
+stu187,Sherpur (rural),female,HSC,18,unmarried,1,2,2,3,1,2,1,3,1,1,1,1,2,4,2,3,0
+stu188,Sherpur (rural),female,HSC,18,unmarried,2,2,2,1,1,2,1,3,4,1,1,1,2,1,2,1,0
+stu189,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,1,1,1,2,1,2,1,1
+stu190,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,1,1,2,2,1,2,1,1
+stu191,Sherpur (rural),female,HSC,18,unmarried,1,2,2,1,1,2,1,3,1,2,1,2,1,1,2,1,1
+stu192,Sherpur (rural),female,HSC,18,unmarried,3,2,2,1,1,2,1,3,1,1,1,2,4,1,2,1,0
+stu193,Sherpur (rural),female,BA pass,21,unmarried,2,2,2,1,1,2,1,3,1,2,1,2,4,1,2,1,0
+stu194,Sherpur (rural),female,BA pass,23,married,2,2,2,1,1,2,1,3,1,2,1,2,4,1,2,1,0
+stu195,Sherpur (rural),female,BA pass,21,unmarried,2,2,2,4,2,2,1,3,1,2,1,2,1,1,2,4,0
+stu196,Sherpur (rural),female,BA pass,21,unmarried,1,2,2,1,2,2,1,3,1,2,1,2,1,2,2,1,0
+stu197,Sherpur (rural),female,BA pass,22,unmarried,4,2,2,4,1,2,1,2,1,2,1,2,1,2,2,4,0
+stu198,Sherpur (rural),female,BA pass,21,unmarried,1,2,2,2,3,2,1,3,1,2,1,2,1,1,2,2,0
+stu199,Sherpur (rural),female,BA pass,23,unmarried,1,2,2,1,2,2,1,4,1,2,1,2,1,1,2,1,0
+stu200,Sherpur (urban),female,BA pass,22,unmarried,2,2,2,1,1,2,1,3,1,2,1,2,1,1,2,1,0
+stu201,Sherpur (rural),female,BA hons,21,unmarried,2,2,2,2,2,2,2,3,1,2,1,2,1,1,2,2,0
+stu202,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,2,2,2,1,3,1,2,1,2,1,2,2,2,0
+stu203,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,2,1,2,3,4,1,2,1,2,1,1,2,2,0
+stu204,Sherpur (urban),female,BA hons,24,married,2,2,2,1,2,2,3,4,1,2,1,2,1,1,2,1,0
+stu205,Sherpur (rural),female,BA hons,22,unmarried,2,2,2,2,2,4,4,4,1,2,1,2,1,1,2,2,0
+stu206,Sherpur (rural),female,BA hons,23,unmarried,2,2,2,4,2,1,1,3,1,2,1,2,1,1,2,4,0
+stu207,Sherpur (urban),female,BA hons,22,unmarried,2,2,2,1,2,1,2,2,1,2,1,4,1,1,2,1,0
+stu208,Sherpur (urban),female,HSC,19,unmarried,1,2,2,1,1,2,3,4,2,1,1,2,1,2,2,1,0
+stu209,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,4,1,2,1,1,1,1,2,1,1,1
+stu210,Sherpur (urban),female,HSC,18,unmarried,1,2,2,2,1,1,4,1,2,1,1,1,1,3,2,2,0
+stu211,Sherpur (rural),female,HSC,19,unmarried,1,1,1,2,1,1,1,4,2,4,1,1,1,3,1,2,0
+stu212,Sherpur (urban),female,HSC,19,unmarried,1,1,2,2,1,1,1,3,2,3,1,1,1,2,2,2,0
+stu213,Sherpur (rural),female,HSC,18,unmarried,1,1,1,2,1,1,1,2,1,2,1,1,1,2,1,2,1
+stu214,Sherpur (urban),female,HSC,18,unmarried,1,1,2,2,1,1,2,2,1,2,1,1,1,1,2,2,1
+stu215,Sherpur (urban),female,HSC,19,unmarried,1,2,2,2,1,1,2,2,2,1,1,1,1,1,2,2,1
+stu216,Sherpur (urban),female,HSC,18,unmarried,2,1,2,2,1,1,2,1,1,1,1,1,1,1,2,2,1
+stu217,Sherpur (rural),female,HSC,19,unmarried,1,1,2,2,1,1,2,1,2,1,1,1,1,1,2,2,1
+stu218,Sherpur (urban),female,HSC,18,unmarried,3,1,2,2,1,1,2,1,1,1,1,1,1,1,2,2,1
+stu219,Sherpur (rural),female,HSC,19,unmarried,3,2,2,1,1,1,2,2,2,1,1,1,1,1,2,1,1
+stu220,Sherpur (urban),female,HSC,20,unmarried,4,2,2,1,1,1,2,2,1,1,1,1,2,1,2,1,0
+stu221,Sherpur (rural),female,HSC,19,unmarried,1,2,2,1,1,1,2,2,2,1,1,1,2,1,2,1,1
+stu222,Sherpur (urban),female,HSC,19,unmarried,2,1,1,1,1,1,2,2,1,1,1,1,2,1,1,1,1
+stu223,Sherpur (urban),female,HSC,19,unmarried,3,3,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1
+stu224,Sherpur (rural),male,HSC,18,unmarried,4,1,2,1,1,1,2,2,1,1,1,1,1,1,2,1,1
+stu225,Sherpur (urban),male,HSC,19,unmarried,4,1,1,1,1,1,2,2,2,1,1,1,2,1,1,1,1
+stu226,Sherpur (rural),male,HSC,18,unmarried,1,1,2,1,1,1,4,2,2,1,1,1,1,1,2,1,1
+stu227,Sherpur (rural),male,BA pass,24,unmarried,1,1,1,1,1,1,4,2,1,1,2,1,1,1,1,1,1
+stu228,Sherpur (rural),male,BA pass,23,unmarried,1,1,2,1,1,1,3,1,1,1,2,1,1,1,2,1,1
+stu229,Sherpur (urban),male,BA pass,38,married,2,1,2,1,1,1,2,2,1,1,2,1,1,2,2,1,1
+stu230,Sherpur (rural),male,BA pass,35,married,2,1,2,1,1,1,1,1,1,1,2,1,1,1,2,1,1
+stu231,Sherpur (urban),male,BA pass,39,unmarried,2,1,2,1,1,1,1,2,1,1,2,1,1,2,2,1,1
+stu232,Sherpur (rural),male,BA pass,32,unmarried,2,1,2,1,1,1,4,3,1,1,2,1,1,2,2,1,0
+stu233,Sherpur (urban),male,BA pass,36,unmarried,2,1,2,1,1,1,2,2,1,1,2,1,1,2,2,1,1
+stu234,Sherpur (urban),male,BA pass,33,unmarried,2,1,2,1,1,1,3,2,1,1,2,1,1,2,2,1,1
+stu235,Sherpur (urban),male,BA hons,31,unmarried,2,1,2,1,1,1,4,4,1,1,2,1,1,2,2,1,0
+stu236,Sherpur (urban),male,BA hons,37,married,2,1,2,1,1,1,2,1,2,1,2,1,1,2,2,1,1
+stu237,Sherpur (rural),male,BA hons,38,married,2,1,2,1,1,1,2,1,1,1,2,1,1,2,2,1,1
+stu238,Sherpur (rural),male,HSC,19,unmarried,2,1,2,1,1,1,2,1,1,1,2,1,1,2,2,1,1
+stu239,Sherpur (urban),male,BA pass,32,unmarried,2,1,2,1,1,1,2,1,2,1,2,1,1,2,2,1,1
+stu240,Sherpur (urban),male,BA hons,34,unmarried,2,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1,1
+stu241,Sherpur (rural),male,BA hons,33,unmarried,4,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1,1
+stu242,Sherpur (urban),male,BA hons,32,unmarried,4,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1,1
+stu243,Sherpur (urban),male,BA hons,37,married,3,1,2,1,1,1,2,1,2,1,1,1,1,2,2,1,1
+stu244,Sherpur (rural),male,BA hons,34,unmarried,2,1,2,2,1,1,2,2,2,1,1,1,1,2,2,2,0
+stu245,Sherpur (rural),male,BA hons,35,married,1,1,2,2,1,1,2,2,2,1,1,1,1,2,2,2,1
+stu246,Sherpur (urban),male,HSC,19,unmarried,1,1,2,2,1,1,2,1,2,1,1,1,1,2,2,2,1
+stu247,Sherpur (urban),male,HSC,19,unmarried,4,1,2,2,1,1,2,1,2,1,1,1,1,2,2,2,0
+stu248,Sherpur (rural),male,HSC,19,unmarried,2,1,1,2,1,1,2,1,1,1,1,1,1,3,1,2,1
+stu249,Sherpur (rural),female,HSC,18,unmarried,3,1,1,2,1,1,2,1,1,1,1,1,1,3,1,2,1
+stu250,Sherpur (urban),female,HSC,19,unmarried,4,1,1,2,1,1,2,2,1,1,1,1,1,2,1,2,1
+stu251,Sherpur (rural),female,HSC,19,unmarried,2,2,1,2,1,1,1,1,1,1,1,1,1,2,1,2,1
+stu252,Sherpur (urban),female,HSC,19,unmarried,2,3,1,2,1,1,3,1,1,1,1,1,1,1,1,2,1
+stu253,Sherpur (urban),female,HSC,19,unmarried,1,1,4,1,2,2,1,2,1,1,1,1,1,1,4,1,0
+stu254,Sherpur (rural),female,Fifth grade,35,married,1,1,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1
+stu255,Sherpur (rural),female,SSC,18,unmarried,1,2,1,1,4,3,1,2,1,1,4,3,2,1,1,1,0
+stu256,Sherpur (rural),female,BA hons,32,married,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1
+stu257,Sherpur (urban),female,BA hons,33,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu258,Sherpur (urban),female,SSC,18,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu259,Sherpur (urban),female,BA pass,29,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu260,Sherpur (urban),female,SSC,18,unmarried,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1
+stu261,Sherpur (urban),female,BA hons,32,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu262,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu263,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu264,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu265,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,1
+stu266,Sherpur (urban),female,HSC,20,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu267,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu268,Sherpur (urban),female,HSC,20,unmarried,1,1,1,2,1,2,1,1,1,2,1,2,1,1,2,2,1
+stu269,Sherpur (urban),female,HSC,19,unmarried,1,1,1,2,2,2,1,1,1,2,2,2,1,1,2,2,1
+stu270,Sherpur (urban),female,HSC,20,unmarried,1,1,1,2,2,2,1,1,1,2,2,2,1,1,2,2,1
+stu271,Sherpur (urban),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,1
+stu272,Sherpur (urban),female,HSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu273,Sherpur (urban),female,HSC,19,unmarried,1,1,1,2,3,2,1,1,1,2,3,2,1,1,2,2,0
+stu274,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu275,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu276,Sherpur (rural),female,BA pass,28,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu277,Sherpur (rural),female,BA pass,30,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu278,Sherpur (rural),female,BA pass,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu279,Sherpur (rural),female,BA pass,30,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu280,Sherpur (rural),female,BA pass,25,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu281,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu282,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu283,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu284,Sherpur (rural),female,SSC,18,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu285,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu286,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1
+stu287,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu288,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu289,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu290,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu291,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu292,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1
+stu293,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu294,Sherpur (rural),female,BA hons,27,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu295,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu296,Sherpur (rural),female,BA hons,29,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu297,Sherpur (rural),female,BA hons,28,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu298,Sherpur (rural),female,BA hons,26,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu299,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu300,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu301,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,1
+stu302,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,3,2,1,1,1,1,3,2,1,1,1,1,1
+stu303,Sherpur (rural),female,BA hons,30,married,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1,1
+stu304,Sherpur (rural),female,BA hons,30,married,1,1,1,1,4,2,1,1,1,1,4,2,1,1,1,1,1
+stu305,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu306,Sherpur (rural),female,BA hons,32,married,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,1
+stu307,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu308,Sherpur (rural),female,BA hons,30,married,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu309,Sherpur (rural),female,BA hons,31,married,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu310,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu311,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu312,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,2,1,1,1,1,1,2,1,1,1,1,1
+stu313,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu314,Sherpur (rural),female,HSC,20,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu315,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+stu316,Sherpur (rural),female,HSC,19,unmarried,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
